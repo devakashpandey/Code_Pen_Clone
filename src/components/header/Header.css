@@ -1,0 +1,41 @@
+.logo-title {
+  font-weight: 500;
+  font-size: 25px;
+  margin-left: 8px !important;
+  cursor: pointer;
+}
+.edit {
+  font-size: 10px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.side-btn {
+  border: none;
+  background: #444857;
+  color: white;
+  border-radius: 3px;
+  margin-left: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.side-btn:hover {
+  background: #708090;
+}
+.fav {
+  padding: 12px 15px;
+}
+
+.save {
+  padding: 10px 15px;
+}
+
+.setting {
+  padding: 10px 18px;
+}
+
+.pin {
+  padding: 10px 10px;
+}
